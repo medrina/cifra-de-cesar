@@ -1,0 +1,27 @@
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+#mensagem, #mensagemEncriptada2 {
+    text-transform: uppercase;
+}
+
+input#numero, input#numero2 {
+    width: 4em;
+}
+
+div.col-md-3, div.col-md-9 {
+    height: 10em
+}
+#link {
+    height: 4em;
+}
+#link a#linkPagina {
+    text-decoration: none;
+}
+
+#link a#linkPagina:hover {
+    text-decoration: underline;
+    color: brown;
+}
